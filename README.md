@@ -1,6 +1,6 @@
 # LazyTrade
 
-Portfolio construction tool written in Python. Utilizes various web-scraping and financial packages to sequentially 'recommend' assets, which may in-turn be added to an arbitrary 'portfolio' saved in local memory. These portfolios are persistent, and the gain/loss - both at the individual asset and overall portfolio level - are immediately available.
+LazyTrade is a bespoke construction app written for Windows OS in Python ~3.7. It utilizes various the BeautifulSoup4 package and Yahoo finance api to sequentially 'recommend' assets, which may in-turn be added to an arbitrary 'portfolio' saved in local memory. These portfolios are persistent, and the gain/loss - both at the individual asset and overall portfolio level - are immediately available.
 
 ### Required Packages:
 
